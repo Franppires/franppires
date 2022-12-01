@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Franciane Pires 👋
 
-🌱 Estudando HTML, CSS e Javascript
+🌱 Desenvolvedora Front-End | HTML | CSS | JavaScript | GIT
 
 😄 Pronouns: ela/dela
 
