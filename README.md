@@ -2,6 +2,10 @@
 
 🌱 Desenvolvedora Front-End | HTML | CSS | JavaScript | GIT
 
+☕ Gosto muito!
+
+📘 Principal hobbie Ler
+
 😄 Pronouns: ela/dela
 
    ##
