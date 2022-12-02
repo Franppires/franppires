@@ -16,11 +16,11 @@
 </div> 
 <div>
   <h4>Contato:</h4>
-  <a align="center" margin="2px" href="https://www.instagram.com/franciane_ppires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="30" width="40px" target="_blank"></a>
+   <a align="center" margin="2px" href="https://contate.me/franppires" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40px" target="_blank"></a>
   <a align="center" margin="2px" href = "mailto:contatofranpires@gmail.com?subject=contato"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" height="30" width="40px" target="_blank"></a>
-  <a align="center" margin="2px" href="https://contate.me/franppires" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40px" target="_blank"></a>
   <a align="center" margin="2px" href="https://www.linkedin.com/in/franciane-pires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="30" width="40px" target="_blank"></a> 
   <a align="center" margin="2px" href="https://discord.gg/7ZQMtKV7" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="30" width="40px" target="_blank"></a>
+  <a align="center" margin="2px" href="https://www.instagram.com/franciane_ppires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="30" width="40px" target="_blank"></a>
   <h4>Linguagens:</h4>
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
