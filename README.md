@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Franciane Pires 👋
 
-🌱 Desenvolvedora Front-End | HTML | CSS | JavaScript | GIT
+🌱 Desenvolvedora Front-End - 🚧 HTML | CSS | JavaScript | GIT 🚧
 
-☕ Gosto muito!
+☕ Gosto muito!!
 
-📘 Principal hobbie Ler
+📘 Principal hobbie!!
 
 😄 Pronouns: ela/dela
 
