@@ -8,7 +8,7 @@
 
 😄 Pronouns: ela/dela
 
-📲 contate.me/franppires 
+📲 https://contate.me/franppires
 📧 contatofranpires@gmail.com
   
 
