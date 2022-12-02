@@ -14,6 +14,8 @@ Contato:
 📲 https://contate.me/franppires
 
 📧 contatofranpires@gmail.com
+
+🔗https://www.linkedin.com/in/franciane-pires/
   
 
 ##
