@@ -34,6 +34,17 @@ Contato:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+<div>
+  <a href="https://www.instagram.com/franciane_ppires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" width="30px" target="_blank"></a>
+  <a href = "mailto:contatofranpires@gmail.com?subject=contato"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="30px" target="_blank"></a>
+  <a href="https://contate.me/franppires" target="_blank"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png
+      " width="30px" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franciane-pires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30px" target="_blank"></a> 
+  <a href="https://discord.gg/7ZQMtKV7" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" width="40px" target="_blank"></a>
+</div>
+  
+ 
+  
    ##
 
 
@@ -52,10 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div> 
-  <a href="https://www.instagram.com/fran_paiva_pires/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fra"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
--->
+
