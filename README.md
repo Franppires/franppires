@@ -1,12 +1,16 @@
-### Olá! Eu sou a Franciane Pires 👋
+### Olá! Eu sou a Franciane Pires Desenvolvedora Front-End 👋
 
-🌱 Desenvolvedora Front-End - 🚧 HTML | CSS | JavaScript | GIT 🚧
+🌱 Estou construindo conhecimentos em HTML | CSS | JavaScript | GIT 🚧
 
-☕ Gosto muito!!
+🤝 Estou disponível para freelancer.
 
-📘 Principal hobbie!!
+💬 Pergunte-me sobre programação.
 
 😄 Pronouns: ela/dela
+
+⚡ Curiosidades: 
+    Bebida ☕
+    Hobiie 📘 
 
   ##
 <div align="center">
@@ -15,7 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 <div>
-  <h4>Contato:</h4>
+  <h4>📫 Como chegar até mim:</h4>
    <a align="center" margin="2px" href="https://contate.me/franppires" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40px" target="_blank"></a>
   <a align="center" margin="2px" href = "mailto:contatofranpires@gmail.com?subject=contato"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" height="30" width="40px" target="_blank"></a>
   <a align="center" margin="2px" href="https://www.linkedin.com/in/franciane-pires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="30" width="40px" target="_blank"></a> 
