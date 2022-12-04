@@ -4,7 +4,7 @@
 
 🤝 Estou disponível para freelancer.
 
-💬 Pergunte-me sobre programação.
+💬 Pergunte-me sobre tecnologia, livros ou series.
 
 😄 Pronouns: ela/dela
 
