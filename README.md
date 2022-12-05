@@ -13,12 +13,8 @@
     Hobiie 📘 
 
   ##
-<div align="center">
-  <a href="https://github.com/Franppires">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Franppires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
-<div>
+  ![giphy](https://user-images.githubusercontent.com/104803568/205672995-9548e3f0-3399-4012-8f61-14dbec7d23d1.gif)
+  <div>
   <h4>📫 Como chegar até mim:</h4>
    <a align="center" margin="2px" href="https://contate.me/franppires" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40px" target="_blank"></a>
   <a align="center" margin="2px" href = "mailto:contatofranpires@gmail.com?subject=contato"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" height="30" width="40px" target="_blank"></a>
@@ -45,5 +41,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<!-- <div align="center">
+  <a href="https://github.com/Franppires">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Franppires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=7&theme=dracula"/>
+</div>  -->
 
 
