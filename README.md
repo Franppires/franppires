@@ -12,14 +12,18 @@
     Bebida ☕
     Hobiie 📘 
 
-  ##
-  ![giphy](https://user-images.githubusercontent.com/104803568/205672995-9548e3f0-3399-4012-8f61-14dbec7d23d1.gif)
+  ##  
+  <div align="center">
+  <a href="https://github.com/Franppires">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Franppires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://user-images.githubusercontent.com/104803568/205672995-9548e3f0-3399-4012-8f61-14dbec7d23d1.gif"/>
+</div>  
   <div>
   <h4>📫 Como chegar até mim:</h4>
    <a align="center" margin="2px" href="https://contate.me/franppires" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40px" target="_blank"></a>
   <a align="center" margin="2px" href = "mailto:contatofranpires@gmail.com?subject=contato"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" height="30" width="40px" target="_blank"></a>
   <a align="center" margin="2px" href="https://www.linkedin.com/in/franciane-pires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="30" width="40px" target="_blank"></a> 
-  <a align="center" margin="2px" href="https://discord.gg/7ZQMtKV7" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="30" width="40px" target="_blank"></a>
   <a align="center" margin="2px" href="https://www.instagram.com/franciane_ppires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="30" width="40px" target="_blank"></a>
   <h4><> Linguagens:</h4>
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -43,10 +47,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<!-- <div align="center">
-  <a href="https://github.com/Franppires">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Franppires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=7&theme=dracula"/>
-</div>  -->
+ 
 
 
