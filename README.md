@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Franciane Pires Desenvolvedora Front-End 👋
 
-🌱 Estou 🚧 conhecimentos em HTML | CSS | JavaScript | GIT | React ..
+🌱 Estou 🚧 conhecimentos em HTML | CSS | JavaScript | GIT | React | Typescript ..
 
 🤝 Estou disponível para freelancer.
 
