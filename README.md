@@ -2,10 +2,6 @@
 
 🌱 Estou 🚧 conhecimentos em HTML | CSS | JavaScript | GIT | React | Typescript ..
 
-🤝 Estou disponível para freelancer.
-
-💬 Pergunte-me sobre tecnologia, livros ou series.
-
 😄 Pronouns: ela/dela
 
 ⚡ Curiosidades: 
