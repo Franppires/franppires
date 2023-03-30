@@ -35,9 +35,9 @@
  
 <div align="center">
 <a href="https://github.com/Franppires">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franppires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://user-images.githubusercontent.com/104803568/205672995-9548e3f0-3399-4012-8f61-14dbec7d23d1.gif"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Franppires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://user-images.githubusercontent.com/104803568/205672995-9548e3f0-3399-4012-8f61-14dbec7d23d1.gif"/>
 
 
 </div> 
