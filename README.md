@@ -16,16 +16,17 @@
   <img height="150em" src="https://user-images.githubusercontent.com/104803568/205672995-9548e3f0-3399-4012-8f61-14dbec7d23d1.gif"/>
 </div>  
   <div>
-  <h4>📫 Como chegar até mim:</h4>
-   <a align="center" margin="2px" href="https://contate.me/franppires" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40px" target="_blank"></a>
-  <a align="center" margin="2px" href = "mailto:contatofranpires@gmail.com?subject=contato"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" height="30" width="40px" target="_blank"></a>
-  <a align="center" margin="2px" href="https://www.linkedin.com/in/franciane-pires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="30" width="40px" target="_blank"></a> 
-  <a align="center" margin="2px" href="https://www.instagram.com/franciane_ppires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="30" width="40px" target="_blank"></a>
-  <h4><> Linguagens:</h4>
-  <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+       <a align="center" margin="2px" href="https://contate.me/franppires" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40px" target="_blank"></a>
+      <a align="center" margin="2px" href = "mailto:contatofranpires@gmail.com?subject=contato"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" height="30" width="40px" target="_blank"></a>
+      <a align="center" margin="2px" href="https://www.linkedin.com/in/franciane-pires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="30" width="40px" target="_blank"></a> 
+      <a align="center" margin="2px" href="https://www.instagram.com/franciane_ppires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="30" width="40px" target="_blank"></a>
+      <h3> <img height="25" width="25" src="https://tihardcore.files.wordpress.com/2016/06/html-128.png?w=620"/> Linguagens:</h3>
+      <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Fran-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+    </div>
   
 ![Snake animation](https://github.com/Franppires/Franppires/blob/output/github-contribution-grid-snake.svg)
 
