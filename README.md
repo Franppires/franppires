@@ -1,6 +1,14 @@
-### Olá! Eu sou a Franciane Pires Desenvolvedora Front-End 👋
+#### Olá! 
+#### Sou a Franciane Pires 
+#### Desenvolvedora Front-End 👋
 
-🌱 Estou 🚧 conhecimentos em HTML | CSS | JavaScript | GIT | React | Typescript ..
+🌱 Estou 🚧 conhecimentos em
+<img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Fran-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" /> 
+<img align="center" alt="Fran-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /> 
+<img align="center" alt="Fran-React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
 
 😄 Pronouns: ela/dela
 
@@ -18,7 +26,7 @@
 <a align="center" margin="2px" href="https://www.instagram.com/franciane_ppires/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="30" width="40px" target="_blank"></a>
 
 ##  
- 
+<!--  
 <h3> <img height="25" width="25" src="https://tihardcore.files.wordpress.com/2016/06/html-128.png?w=620"/> Linguagens:</h3>
 <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,7 +40,7 @@
 </div>
 
 ##  
- 
+  -->
 <div align="center">
 <a href="https://github.com/Franppires">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Franppires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
