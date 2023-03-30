@@ -39,10 +39,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://user-images.githubusercontent.com/104803568/205672995-9548e3f0-3399-4012-8f61-14dbec7d23d1.gif"/>
 
-    ![Snake animation](https://github.com/Franppires/Franppires/blob/output/github-contribution-grid-snake.svg)
 
 </div> 
-    
+        
+![Snake animation](https://github.com/Franppires/Franppires/blob/output/github-contribution-grid-snake.svg)
+
 ##  
 
 
