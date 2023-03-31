@@ -6,7 +6,7 @@
    
    * Frameworks e bibliotecas: <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /> <img align="center" alt="Styled-Components" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
 
-   * Ferramentas de gerenciamento designer e comunicação: <img align="center" alt="Trello" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg" /> <img align="center" alt="Notion" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg" />  <img align="center" alt="ClickUp" height="30" width="40" src="https://logos.prod-v1.vertice.one/cf2806f5-280c-55c0-8306-4ca61ef546f6.svg" /> <img align="center" alt="Figma" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" /> <img align="center" alt="Discord" height="30" width="35" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" />
+   * Ferramentas de gerenciamento designer e comunicação: <img align="center" alt="Trello" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg" /> <img align="center" alt="Notion" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg" />  <img align="center" alt="ClickUp" height="30" width="40" src="https://logos.prod-v1.vertice.one/cf2806f5-280c-55c0-8306-4ca61ef546f6.svg" /> <img align="center" alt="Figma" height="30" width="30" src="https://digitalagencynetwork.com/wp-content/uploads/2020/08/figma-remote-working-design-tool.png" /> <img align="center" alt="Discord" height="30" width="35" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" />
    
   
 
