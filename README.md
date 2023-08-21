@@ -16,7 +16,7 @@
 ☕ 📚 🧳 🎦
 
  
-#### 📫 Como chegar até mim: <a align="center" margin="2px" href="https://contate.me/franppires" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40px" target="_blank"></a> <a align="center" margin="2px" href = "mailto:contatofranpires@gmail.com?subject=contato"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" height="30" width="40px" target="_blank"></a> <a align="center" margin="2px" href="https://www.linkedin.com/in/franciane-pires/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="30" width="40px" target="_blank"></a> <a align="center" margin="2px" href="https://www.instagram.com/franciane_ppires/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" height="30" width="40px" target="_blank"></a>
+#### 📫 Como chegar até mim: <a align="center" margin="2px" href="https://contate.me/franppires" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40px" target="_blank"></a> <a align="center" margin="2px" href = "mailto:contatofranpires@gmail.com?subject=contato"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" height="30" width="40px" target="_blank"></a> <a align="center" margin="2px" href="https://www.linkedin.com/in/franciane-pires/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="30" width="40px" target="_blank"></a> 
 
 <div align="center">
 <a href="https://github.com/Franppires">
