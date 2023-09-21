@@ -44,9 +44,11 @@
  </a>
 </div>
 <br>
+<img height="218px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=6&theme=radical"/>
 
 ![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franppires&show_icons=true&theme=radical)
-<img height="195px"   width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=6&theme=radical"/>
+
+
 
 
 
