@@ -28,6 +28,7 @@
  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 ### Como chegar até mim: 
@@ -45,7 +46,7 @@
 <br>
 
 ![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franppires&show_icons=true&theme=radical)
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franppires&layout=compact&langs_count=6&theme=radical"/>
 
 
 
