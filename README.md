@@ -1,8 +1,9 @@
-# Olá, eu sou Franciane Pires 👋
+## Olá, eu sou Franciane Pires 👋
 
-### 💻 Desenvolvedora React/Next.js | Criatividade + Performance 💡
+### 💻 Software Developer | React, Next.js, JavaScript & TypeScript
 
-Minha jornada profissional une a visão estratégica da Publicidade, a resiliência da Maternidade e a precisão técnica do desenvolvimento. Sou apaixonada por transformar ideias complexas em soluções digitais performáticas e intuitivas.
+Minha jornada profissional une a visão estratégica da Publicidade, a resiliência da Maternidade e a precisão técnica do desenvolvimento. 
+Sou apaixonada por transformar ideias complexas em soluções digitais performáticas e intuitivas.
 
 Foco no ecossistema JavaScript moderno (React, Next.js, TypeScript), buscando não apenas escrever código limpo e escalável, mas também otimizar a experiência do usuário e o SEO de ponta a ponta.
 
@@ -17,10 +18,11 @@ Estou aberta a novas conexões, projetos e oportunidades. Sinta-se à vontade pa
 
 
 
-## 💻 Stack Principal
+## 💻 Desenvolvimento e Gestão 
 
-Especializada no desenvolvimento de aplicações com foco em performance e experiência do usuário (UX).
+Aqui estão as tecnologias e ferramentas que utilizo no ciclo de vida completo de um projeto, desde o código até a gestão de infraestrutura e otimização.
 
+### Stack 
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> |
@@ -29,12 +31,6 @@ Especializada no desenvolvimento de aplicações com foco em performance e exper
 | **Dados & Integração** |	<img src="https://img.shields.io/badge/REST-000000?style=for-the-badge"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> |
 | **Controle de Versão** |	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> |
 
-
-
-
-## 🛠️ Ferramentas de Trabalho e Gestão
-
-Experiência com gestão de projetos, infraestrutura web e performance.
 
 ### Design & Produtividade
 | Categoria | Ferramentas |
