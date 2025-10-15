@@ -4,8 +4,6 @@ Apaixonada por transformar ideias em soluções digitais performáticas e intuit
 
 ## ✉️ Conecte-se Comigo
 
-Estou aberta a novas conexões, projetos e oportunidades. Sinta-se à vontade para entrar em contato!
-
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | <a href="https://www.linkedin.com/in/franciane-pires/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> |
@@ -14,8 +12,6 @@ Estou aberta a novas conexões, projetos e oportunidades. Sinta-se à vontade pa
 
 
 ## 💻 Desenvolvimento e Gestão 
-
-Aqui estão as tecnologias e ferramentas que utilizo no ciclo de vida completo de um projeto, desde o código até a gestão de infraestrutura e otimização.
 
 ### Stack 
 | Categoria | Tecnologias |
