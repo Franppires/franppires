@@ -1,9 +1,6 @@
 ### 💻 Software Developer | React, Next.js, JavaScript & TypeScript
 
-Minha jornada profissional une a visão estratégica da Publicidade, a resiliência da Maternidade e a precisão técnica do desenvolvimento. 
-Sou apaixonada por transformar ideias complexas em soluções digitais performáticas e intuitivas.
-
-Foco no ecossistema JavaScript moderno (React, Next.js, TypeScript), buscando não apenas escrever código limpo e escalável, mas também otimizar a experiência do usuário e o SEO de ponta a ponta.
+Apaixonada por transformar ideias em soluções digitais performáticas e intuitivas.
 
 ## ✉️ Conecte-se Comigo
 
