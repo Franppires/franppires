@@ -45,20 +45,6 @@ Experiência com gestão de projetos, infraestrutura web e performance.
 
 
 
-## 🌱 Interesses e Habilidades
-
-Minhas paixões pessoais reforçam habilidades essenciais para o trabalho:
-
-* **Família e Maternidade:** Desenvolveram minha **resiliência**, **organização** e capacidade de **multitarefas** sob pressão.
-* **Aprendizado Contínuo:** Paixão por **Livros** e **Séries/Filmes** demonstra minha curiosidade e abertura a novas narrativas e conhecimentos.
-* **Bem-Estar:** **Café**, **Viagens** e o tempo com minha **gata** são fontes de foco, criatividade e equilíbrio.
-
-
-
-**Busca Profissional:** Busco integrar-me a um ambiente de trabalho que valorize o **crescimento**, a **colaboração** e a **flexibilidade** (*remota ou híbrida*), onde eu possa aplicar e expandir minhas competências tecnológicas e de gestão.
-
-
-
 ## 🚀 Estatísticas do GitHub
 
 <p align="center">
