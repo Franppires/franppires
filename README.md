@@ -1,5 +1,3 @@
-## Olá, eu sou Franciane Pires 👋
-
 ### 💻 Software Developer | React, Next.js, JavaScript & TypeScript
 
 Minha jornada profissional une a visão estratégica da Publicidade, a resiliência da Maternidade e a precisão técnica do desenvolvimento. 
